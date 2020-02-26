@@ -4,3 +4,5 @@ test file
 master的内容，merge01的内容
 
 version01
+
+version02
